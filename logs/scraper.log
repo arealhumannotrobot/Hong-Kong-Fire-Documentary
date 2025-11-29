@@ -131,3 +131,37 @@ Aborting
 2025-11-29 02:36:43 | ERROR    | Failed to push to PR branch
 2025-11-29 02:36:43 | INFO     | PR cycle complete
 2025-11-29 02:36:43 | INFO     | Run once mode, exiting...
+2025-11-29 02:40:04 | INFO     | ============================================================
+2025-11-29 02:40:04 | INFO     | News Scraper Daemon Starting
+2025-11-29 02:40:04 | INFO     | Fork: Hilo-Hilo/Hong-Kong-Fire-Documentary
+2025-11-29 02:40:04 | INFO     | Upstream: Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
+2025-11-29 02:40:04 | INFO     | Sync interval: 10 minutes
+2025-11-29 02:40:04 | INFO     | PR interval: 60 minutes
+2025-11-29 02:40:04 | INFO     | ============================================================
+2025-11-29 02:40:04 | ERROR    | gh CLI not found! Please install it: https://cli.github.com/
+2025-11-29 02:40:35 | INFO     | ============================================================
+2025-11-29 02:40:35 | INFO     | News Scraper Daemon Starting
+2025-11-29 02:40:35 | INFO     | Fork: Hilo-Hilo/Hong-Kong-Fire-Documentary
+2025-11-29 02:40:35 | INFO     | Upstream: Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
+2025-11-29 02:40:35 | INFO     | Sync interval: 10 minutes
+2025-11-29 02:40:35 | INFO     | PR interval: 60 minutes
+2025-11-29 02:40:35 | INFO     | ============================================================
+2025-11-29 02:40:35 | ERROR    | gh CLI not found! Please install it: https://cli.github.com/
+2025-11-29 02:41:04 | INFO     | ============================================================
+2025-11-29 02:41:04 | INFO     | News Scraper Daemon Starting
+2025-11-29 02:41:04 | INFO     | Fork: Hilo-Hilo/Hong-Kong-Fire-Documentary
+2025-11-29 02:41:04 | INFO     | Upstream: Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
+2025-11-29 02:41:04 | INFO     | Sync interval: 10 minutes
+2025-11-29 02:41:04 | INFO     | PR interval: 60 minutes
+2025-11-29 02:41:04 | INFO     | ============================================================
+2025-11-29 02:41:04 | INFO     | gh CLI authenticated
+2025-11-29 02:41:04 | INFO     | Setting up git remotes...
+2025-11-29 02:41:04 | INFO     | Configured origin remote
+2025-11-29 02:41:04 | INFO     | ----------------------------------------
+2025-11-29 02:41:04 | INFO     | Starting sync cycle...
+2025-11-29 02:41:04 | INFO     | Syncing with upstream...
+2025-11-29 02:41:04 | INFO     | Already up to date with upstream
+2025-11-29 02:41:04 | INFO     | Running scraper...
+2025-11-29 02:41:04 | INFO     | Found 41 new URLs to scrape
+2025-11-29 03:41:27 | INFO     | Scraper results: 32 success, 9 failed
+2025-11-29 03:41:27 | INFO     | Committing changes...
