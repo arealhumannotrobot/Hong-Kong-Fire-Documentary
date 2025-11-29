@@ -64,3 +64,35 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-11-29 02:05:03 | INFO     | Scraper results: 402 success, 0 failed
 2025-11-29 02:05:03 | INFO     | Committing changes...
 2025-11-29 02:05:05 | INFO     | Committed: chore(scraper): auto-scrape 2025-11-29 02:05
+2025-11-29 02:05:05 | INFO     | Committed log updates
+2025-11-29 02:05:05 | INFO     | Sync cycle complete
+2025-11-29 02:05:05 | INFO     | ----------------------------------------
+2025-11-29 02:05:05 | INFO     | Starting PR cycle...
+2025-11-29 02:05:20 | ERROR    | Command failed: git push origin main
+2025-11-29 02:05:20 | ERROR    | stderr: fatal: unable to access 'https://github.com/Hilo-Hilo/Hong-Kong-Fire-Documentary.git/': Could not resolve host: github.com
+
+2025-11-29 02:05:20 | INFO     | Managing PR...
+2025-11-29 02:05:30 | ERROR    | Failed to check for open PRs: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary/pulls?head=Hilo-Hilo%3Ascraper-updates&state=open (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe8a37cc35400>: Failed to resolve 'api.github.com' ([Errno -3] Temporary failure in name resolution)"))
+2025-11-29 02:05:30 | INFO     | Pushing to branch 'scraper-updates'...
+2025-11-29 02:05:55 | ERROR    | Command failed: git push origin scraper-updates --force
+2025-11-29 02:05:55 | ERROR    | stderr: fatal: unable to access 'https://github.com/Hilo-Hilo/Hong-Kong-Fire-Documentary.git/': Could not resolve host: github.com
+
+2025-11-29 02:05:55 | ERROR    | Failed to push: Command '['git', 'push', 'origin', 'scraper-updates', '--force']' returned non-zero exit status 128.
+2025-11-29 02:05:55 | ERROR    | Failed to push to PR branch
+2025-11-29 02:05:55 | INFO     | PR cycle complete
+2025-11-29 02:05:55 | INFO     | Run once mode, exiting...
+2025-11-29 02:10:46 | INFO     | ============================================================
+2025-11-29 02:10:46 | INFO     | News Scraper Daemon Starting
+2025-11-29 02:10:46 | INFO     | Fork: Hilo-Hilo/Hong-Kong-Fire-Documentary
+2025-11-29 02:10:46 | INFO     | Upstream: Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
+2025-11-29 02:10:46 | INFO     | Sync interval: 10 minutes
+2025-11-29 02:10:46 | INFO     | PR interval: 60 minutes
+2025-11-29 02:10:46 | INFO     | ============================================================
+2025-11-29 02:10:46 | INFO     | Setting up git remotes...
+2025-11-29 02:10:46 | INFO     | Configured origin remote with authentication
+2025-11-29 02:10:46 | INFO     | ----------------------------------------
+2025-11-29 02:10:46 | INFO     | Starting sync cycle...
+2025-11-29 02:10:46 | INFO     | Syncing with upstream...
+2025-11-29 02:10:52 | INFO     | Already up to date with upstream
+2025-11-29 02:10:52 | INFO     | Running scraper...
+2025-11-29 02:10:52 | INFO     | Found 53 new URLs to scrape

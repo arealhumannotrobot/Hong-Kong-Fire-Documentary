@@ -116,6 +116,20 @@ def extract_urls_from_markdown(filepath: Path) -> list[dict]:
                     "source_file": str(filepath.relative_to(PROJECT_ROOT)),
                 })
     
+    # Pattern 3: List item with angle-bracket URL format: - Title (<URL>)
+    # Used by 東方日報 and similar sources
+    list_angle_pattern = r'^-\s+(.+?)\s+\(<(https?://[^>]+)>\)'
+    for match in re.finditer(list_angle_pattern, content, re.MULTILINE):
+        title, url = match.groups()
+        title = title.strip()
+        url = url.strip()
+        if title and url:
+            urls.append({
+                "title": title,
+                "url": url,
+                "source_file": str(filepath.relative_to(PROJECT_ROOT)),
+            })
+    
     return urls
 
 
