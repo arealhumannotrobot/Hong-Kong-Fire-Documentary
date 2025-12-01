@@ -47,6 +47,10 @@ def process_file(filepath):
         matches = re.finditer(r"\[([^\]]+)\]\((http[^)]+)\)", line)
 
         new_line = line
+<<<<<<< Updated upstream
+=======
+        line_modified = False
+>>>>>>> Stashed changes
 
         # We need to process matches in reverse order to not mess up indices if we were doing replacement by index
         # But here we are replacing strings.
