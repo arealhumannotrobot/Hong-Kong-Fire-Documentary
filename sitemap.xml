@@ -323,6 +323,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/abc/"/>
     </url>
     <url>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/aljazeera/</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/aljazeera/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/aljazeera/"/>
+    </url>
+    <url>
         <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/ap/</loc>
         <lastmod>2025-12-04</lastmod>
         <changefreq>daily</changefreq>
@@ -1167,6 +1174,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/abc/"/>
         <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/abc/"/>
+    </url>
+    <url>
+        <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/aljazeera/</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/aljazeera/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/news/aljazeera/"/>
     </url>
     <url>
         <loc>https://Hong-Kong-Emergency-Coordination-Hub.github.io/Hong-Kong-Fire-Documentary/en/news/ap/</loc>
