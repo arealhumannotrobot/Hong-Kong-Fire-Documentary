@@ -277,16 +277,16 @@ async def scrape_with_requests(url: str, config: dict) -> tuple[str, bool]:
         return "", False
 
 def scrape_with_uc(url: str, config: dict) -> tuple[str, bool]:
-    """Fallback scraper using undetected-chromedriver library for hkej"""
+    """Fallback scraper using undetected-chromedriver library for hkej, not-mature"""
     import undetected_chromedriver as uc
     from selenium.webdriver.common.by import By
     from selenium.webdriver.support.ui import WebDriverWait
     from selenium.webdriver.support import expected_conditions as EC
 
     try:
-        driver = uc.Chrome(headless=False,use_subprocess=False)
+        driver = uc.Chrome(headless=True,use_subprocess=False)
         driver.get(url)
-        element = WebDriverWait(driver, 20).until(
+        element = WebDriverWait(driver, 10).until(
            EC.visibility_of_element_located((By.XPATH, "/html/body/div[7]/div/div[1]/div[4]"))
         )
         return element.text, True

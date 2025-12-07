@@ -2662,3 +2662,127 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-12-08 00:20:01 | ERROR    | Future exception was never retrieved
 future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
 playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-12-08 00:20:27 | INFO     | ============================================================
+2025-12-08 00:20:27 | INFO     | News Scraper Daemon Starting
+2025-12-08 00:20:27 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-08 00:20:27 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-08 00:20:27 | INFO     | Sync interval: 10 minutes
+2025-12-08 00:20:27 | INFO     | PR interval: 60 minutes
+2025-12-08 00:20:27 | INFO     | ============================================================
+2025-12-08 00:20:27 | INFO     | gh CLI authenticated
+2025-12-08 00:20:27 | INFO     | Setting up git remotes...
+2025-12-08 00:20:27 | INFO     | Configured origin remote
+2025-12-08 00:20:28 | INFO     | gh CLI authenticated
+2025-12-08 00:20:28 | INFO     | ----------------------------------------
+2025-12-08 00:20:28 | INFO     | Running periodic health check...
+2025-12-08 00:20:28 | INFO     | gh CLI authenticated
+2025-12-08 00:20:28 | INFO     | Health check passed
+2025-12-08 00:20:28 | INFO     | ----------------------------------------
+2025-12-08 00:20:28 | INFO     | Starting sync cycle...
+2025-12-08 00:20:28 | INFO     | Syncing with upstream...
+2025-12-08 00:20:29 | INFO     | Already up to date with upstream
+2025-12-08 00:20:29 | INFO     | Running scraper...
+2025-12-08 00:20:29 | INFO     | Found 33 new URLs to scrape
+2025-12-08 00:20:31 | ERROR    | Scraper error: No module named 'distutils'
+2025-12-08 00:20:31 | INFO     | Committing changes...
+2025-12-08 00:20:31 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-08 00:20
+2025-12-08 00:20:33 | INFO     | Pushed to origin successfully
+2025-12-08 00:20:33 | INFO     | Sync cycle complete
+2025-12-08 00:20:33 | INFO     | ----------------------------------------
+2025-12-08 00:20:33 | INFO     | Starting PR cycle...
+2025-12-08 00:20:34 | INFO     | Pushed to origin successfully
+2025-12-08 00:20:34 | INFO     | Managing PR...
+2025-12-08 00:20:35 | INFO     | PR #8 exists, updating description with fresh stats...
+2025-12-08 00:20:39 | INFO     | Updated PR #8 with fresh stats
+2025-12-08 00:20:39 | INFO     | PR cycle complete
+2025-12-08 00:20:39 | INFO     | Run once mode, exiting...
+2025-12-08 00:20:39 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-12-08 00:23:01 | INFO     | ============================================================
+2025-12-08 00:23:01 | INFO     | News Scraper Daemon Starting
+2025-12-08 00:23:01 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-08 00:23:01 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-08 00:23:01 | INFO     | Sync interval: 10 minutes
+2025-12-08 00:23:01 | INFO     | PR interval: 60 minutes
+2025-12-08 00:23:01 | INFO     | ============================================================
+2025-12-08 00:23:02 | INFO     | gh CLI authenticated
+2025-12-08 00:23:02 | INFO     | Setting up git remotes...
+2025-12-08 00:23:02 | INFO     | Configured origin remote
+2025-12-08 00:23:02 | INFO     | gh CLI authenticated
+2025-12-08 00:23:02 | INFO     | ----------------------------------------
+2025-12-08 00:23:02 | INFO     | Running periodic health check...
+2025-12-08 00:23:03 | INFO     | gh CLI authenticated
+2025-12-08 00:23:03 | INFO     | Health check passed
+2025-12-08 00:23:03 | INFO     | ----------------------------------------
+2025-12-08 00:23:03 | INFO     | Starting sync cycle...
+2025-12-08 00:23:03 | INFO     | Syncing with upstream...
+2025-12-08 00:23:04 | INFO     | Already up to date with upstream
+2025-12-08 00:23:04 | INFO     | Running scraper...
+2025-12-08 00:23:04 | INFO     | Found 33 new URLs to scrape
+2025-12-08 00:23:11 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-08 00:23:23 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-08 00:23:36 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-08 00:23:37 | INFO     | Daemon stopped by user
+2025-12-08 00:23:37 | INFO     | ensuring close
+2025-12-08 00:23:37 | INFO     | ensuring close
+2025-12-08 00:23:37 | INFO     | ensuring close
+2025-12-08 00:23:39 | ERROR    | Task was destroyed but it is pending!
+task: <Task cancelling name='Task-1' coro=<run_scraper_async() running at C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py:528> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py:810]>
+2025-12-08 00:26:56 | INFO     | ============================================================
+2025-12-08 00:26:56 | INFO     | News Scraper Daemon Starting
+2025-12-08 00:26:56 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-08 00:26:56 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-08 00:26:56 | INFO     | Sync interval: 10 minutes
+2025-12-08 00:26:56 | INFO     | PR interval: 60 minutes
+2025-12-08 00:26:56 | INFO     | ============================================================
+2025-12-08 00:27:16 | ERROR    | gh CLI is not authenticated!
+2025-12-08 00:27:16 | ERROR    | Please run: gh auth login
+2025-12-08 00:30:08 | INFO     | ============================================================
+2025-12-08 00:30:08 | INFO     | News Scraper Daemon Starting
+2025-12-08 00:30:08 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-08 00:30:08 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-08 00:30:08 | INFO     | Sync interval: 10 minutes
+2025-12-08 00:30:08 | INFO     | PR interval: 60 minutes
+2025-12-08 00:30:08 | INFO     | ============================================================
+2025-12-08 00:30:08 | INFO     | gh CLI authenticated
+2025-12-08 00:30:08 | INFO     | Setting up git remotes...
+2025-12-08 00:30:08 | INFO     | Configured origin remote
+2025-12-08 00:30:09 | INFO     | gh CLI authenticated
+2025-12-08 00:30:09 | INFO     | ----------------------------------------
+2025-12-08 00:30:09 | INFO     | Running periodic health check...
+2025-12-08 00:30:10 | INFO     | gh CLI authenticated
+2025-12-08 00:30:10 | INFO     | Health check passed
+2025-12-08 00:30:10 | INFO     | ----------------------------------------
+2025-12-08 00:30:10 | INFO     | Starting sync cycle...
+2025-12-08 00:30:10 | INFO     | Syncing with upstream...
+2025-12-08 00:30:11 | INFO     | Already up to date with upstream
+2025-12-08 00:30:11 | INFO     | Running scraper...
+2025-12-08 00:30:11 | INFO     | Found 33 new URLs to scrape
+2025-12-08 00:30:16 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-08 00:30:28 | INFO     | Daemon stopped by user
+2025-12-08 00:30:28 | INFO     | ensuring close
+2025-12-08 00:31:06 | INFO     | ============================================================
+2025-12-08 00:31:06 | INFO     | News Scraper Daemon Starting
+2025-12-08 00:31:06 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-08 00:31:06 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-08 00:31:06 | INFO     | Sync interval: 10 minutes
+2025-12-08 00:31:06 | INFO     | PR interval: 60 minutes
+2025-12-08 00:31:06 | INFO     | ============================================================
+2025-12-08 00:31:07 | INFO     | gh CLI authenticated
+2025-12-08 00:31:07 | INFO     | Setting up git remotes...
+2025-12-08 00:31:07 | INFO     | Configured origin remote
+2025-12-08 00:31:07 | INFO     | gh CLI authenticated
+2025-12-08 00:31:07 | INFO     | ----------------------------------------
+2025-12-08 00:31:07 | INFO     | Running periodic health check...
+2025-12-08 00:31:08 | INFO     | gh CLI authenticated
+2025-12-08 00:31:08 | INFO     | Health check passed
+2025-12-08 00:31:08 | INFO     | ----------------------------------------
+2025-12-08 00:31:08 | INFO     | Starting sync cycle...
+2025-12-08 00:31:08 | INFO     | Syncing with upstream...
+2025-12-08 00:31:09 | INFO     | Already up to date with upstream
+2025-12-08 00:31:09 | INFO     | Running scraper...
+2025-12-08 00:31:09 | INFO     | Found 33 new URLs to scrape
+2025-12-08 00:31:13 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-08 00:31:21 | INFO     | Daemon stopped by user
+2025-12-08 00:31:21 | INFO     | ensuring close
