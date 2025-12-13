@@ -582,8 +582,8 @@
 - [萬分悲痛 / 魏綺珊](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251201/s00018/1764523024269)
 - [廣福邨男子墮樓亡](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251201/s00001/1764605934126)
 
-
 ### 20251202
+
 - [大埔宏福苑五級火︱義務工作發展局義工協助清潔臨時居所 設臨時醫療站支援](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251202/s00001/1764690027444)
 - [大埔宏福苑五級火︱罹難者頭七 市民參與九龍殯儀館悼念](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251202/s00001/1764683041858)
 - [港超｜傑志穿義賣全黑球衣1球挫東區 門票收益援助大埔災民 前皇馬中場盼悲劇勿重演](https://news.mingpao.com/ins/%e9%ab%94%e8%82%b2/article/20251202/s00006/1764685653652)
@@ -690,6 +690,7 @@
 - [不住色布施 / 一心](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251202/s00018/1764608246190)
 
 ### 20251203
+
 - [大埔宏福苑五級火｜印尼駐港總領事館指121名印傭確認安全 仍有9人失聯](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251203/s00001/1764772007433)
 - [大埔宏福苑五級火｜方皓玟12.31除夕夜演唱會延期舉行](https://news.mingpao.com/ins/%e5%a8%9b%e6%a8%82/article/20251203/s00007/1764770342815)
 - [大埔宏福苑五級火｜市建局撤銷「宏業建築」及「鴻毅」樓宇復修計劃登記](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251203/s00001/1764768397497)
@@ -800,6 +801,7 @@
 - [光與蛆 / 趙曉彤](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251203/s00018/1764693005584)
 
 ### 20251204
+
 - [《金童》及新劇遇阻滯 張繼聰：從來唔覺得自己黑仔](https://news.mingpao.com/ins/%e5%a8%9b%e6%a8%82/article/20251204/s00007/1764861543006)
 - [大埔宏福苑五級火｜維持159死3危殆 大廈外圍暫沒發現遺骸](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251204/s00001/1764860300838)
 - [大埔宏福苑五級火｜警方正調查4屋苑棚網涉及行使虛假文書](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251204/s00001/1764856685079)
@@ -902,6 +904,7 @@
 - [我是香港人 / 蘇三](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251204/s00018/1764782978352)
 
 ### 20251205
+
 - [大埔宏福苑五級火｜維持159死 土葬「起骨」規定放寬至12年](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251205/s00001/1764946000316)
 - [大埔宏福苑五級火｜愛協：84隻動物仍下落不明 建議於大廈放置糧水](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251205/s00001/1764947208627)
 - [立法會選舉 港鐵取消「投票有禮」抽獎活動](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251205/s00001/1764946930951)
@@ -915,7 +918,7 @@
 - [李家超：有人仿效「黑暴」大量發放虛假信息 會嚴厲打擊 承諾立法會換屆後即提議案商支援災民](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251205/s00001/1764934669218)
 - [京東工業第三日招股孖展暫超購9.6倍](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251205/s00002/1764934322825)
 - [宏福苑五級火丨地建會研工地全面禁煙  會德豐：將積極配合](https://news.mingpao.com/ins/%e5%9c%b0%e7%94%a2/article/20251205/s00003/1764934023032)
-- [大埔宏福苑五級火｜楊何蓓茵：4名公務員在火災罹難 逾120公僕居宏福苑 ](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251205/s00001/1764932970934)
+- [大埔宏福苑五級火｜楊何蓓茵：4名公務員在火災罹難 逾120公僕居宏福苑](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251205/s00001/1764932970934)
 - [許正宇：探索AI賦能中小企 轉化為競爭力](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251205/s00002/1764933843055)
 - [學界D1足球｜男拔萃4強3：1挫衛冕香港國際 連朗狄梅開二度報上屆敗仇 下周三決賽鬥聖若瑟](https://news.mingpao.com/ins/%e9%ab%94%e8%82%b2/article/20251205/s00006/1764927875539)
 - [羅淑佩：社會需看到希望才能互相扶持 本港已籌劃節日期間更多溫馨活動](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251205/s00001/1764930892802)
@@ -996,6 +999,7 @@
 - [不能承受的沉重 / 莊元生](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251205/s00018/1764865852524)
 
 ### 20251206
+
 - [大埔宏福苑五級火︱ 屋宇署：至下午3時175幢私樓棚網移除  3幢樓要求額外時間處理](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251206/s00001/1765021311898)
 - [立法會選舉︱許正宇致函金融業界籲投票 稱金融業界以專業與責任感見稱](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251206/s00001/1765017046842)
 - [大埔宏福苑五級火︱ 房屋局對受影響市民提供免費住宿支援  「僅數個月免租期」非事實](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251206/s00001/1765018145258)
@@ -1047,6 +1051,7 @@
 - [吐槽及批評與自我批評 / 劉利](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251206/s00018/1764954162229)
 
 ### 20251207
+
 - [立法會選舉   有大埔居民飲宴後 深夜趕投票](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251207/s00001/1765123514147)
 - [立法會選舉｜新界東南五人爭兩席 部分候選人告急 同關注大廈維修事宜](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251207/s00001/1765117033262)
 - [立法會選舉｜ 新界西北周浩鼎陸頌雄告急  田北辰盼支持者打破兩黨壟斷](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251207/s00001/1765111419681)
@@ -1054,7 +1059,7 @@
 - [大埔宏福苑五級火｜續有市民到廣福休憩處悼念罹難者 義工整理物資準備清場](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251207/s00001/1765106699298)
 - [大埔宏福苑五級火｜馮允謙暖男上身 割愛珍藏CD 安慰受災粉絲](https://news.mingpao.com/ins/%e5%a8%9b%e6%a8%82/article/20251207/s00007/1765107122404)
 - [立法會選舉｜截至今午4時接獲245宗投訴 陸啟康：若選舉帶來正能量已算成功](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251207/s00001/1765104276026)
-- [立法會選舉｜港島西選區 陳家珮：選情嚴峻 楊哲安：不告急 ](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251207/s00001/1765095924334)
+- [立法會選舉｜港島西選區 陳家珮：選情嚴峻 楊哲安：不告急](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251207/s00001/1765095924334)
 - [立法會選舉｜新界西南選區5女將競逐議席 有候選人告急](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251207/s00001/1765089369175)
 - [立法會選舉·短片：廣福邨居民稱心情差惟盡力出來投票 盼選出專業議員起監督作用](https://news.mingpao.com/ins/%e7%86%b1%e9%bb%9e/article/20251207/s00024/1765098063288)
 - [立法會選舉｜唐英年籲團結一致投票 長實李澤鉅「祝願選舉成功」](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251207/s00001/1765089440397)
@@ -1106,6 +1111,7 @@
 - [沉默是哀 / 區聞海](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251207/s00018/1765037593465)
 
 ### 20251208
+
 - [警查6屋苑棚網檢測報告涉造假 最新包括薄扶林碧瑤灣及荔枝角清麗苑](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251208/s00001/1765208030545)
 - [溫碧霞膺「影視公益之星」慈善路不止步：幫助有需要的人](https://news.mingpao.com/ins/%e5%a8%9b%e6%a8%82/article/20251208/s00007/1765170665278)
 - [中信里昂料明年為港樓復蘇之年 首選潤地希慎領展](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251208/s00002/1765188968272)
@@ -1166,11 +1172,12 @@
 - [世紀．一一兩岸：文明的崩塌 / 文．余衡方／編輯．孫志超](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251208/s00018/1765125209711)
 - [宏福苑的安置與重建之路 / 葉劉淑儀](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251208/s00018/1765125210493)
 - [不相信 / 區聞海](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251208/s00018/1765125212312)
-- [立法會選舉   宏福苑廣福邨選民票站遷李興貴中學  陳克勤得票最高 ](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251208/s00001/1765130514964)
-- [ 立法會選舉｜投票結束 地方選區投票率31.90%  投票人數逾131萬](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251208/s00001/1765070327253)
+- [立法會選舉   宏福苑廣福邨選民票站遷李興貴中學  陳克勤得票最高](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251208/s00001/1765130514964)
+- [立法會選舉｜投票結束 地方選區投票率31.90%  投票人數逾131萬](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251208/s00001/1765070327253)
 - [立法會選舉   有候選人關票站前最後衝刺拉票 植潔玲稱民建聯遭抹黑](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251208/s00001/1765123787216)
 
 ### 20251209
+
 - [應星與Netflix訂「怪奇物語」9個月整體商品授權協議](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251209/s00002/1765279083051)
 - [籃球︱NBL新季本月20日開鑼 香港金牛力爭三連霸 總經理：正積極物色主場](https://news.mingpao.com/ins/%e9%ab%94%e8%82%b2/article/20251209/s00006/1765270238086)
 - [周創建今完成10送1紅股 市值單日增近30億元](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251209/s00002/1765278065142)
@@ -1228,15 +1235,16 @@
 - [大埔災民的鼓勵和安慰 / 趙麗如](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251209/s00018/1765211166288)
 - [火災慘劇的魚骨圖 / 區聞海](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251209/s00018/1765211168185)
 
-
 ### 20251209
-- [大埔宏福苑五級火｜救助兒童會向大埔11校受災學生發放每人1萬現金援助 ](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251209/s00001/1765290670967)
+
+- [大埔宏福苑五級火｜救助兒童會向大埔11校受災學生發放每人1萬現金援助](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251209/s00001/1765290670967)
 - [柏景峰周六次輪賣150伙](https://news.mingpao.com/ins/%e5%9c%b0%e7%94%a2/article/20251209/s00003/1765285564486)
 - [大埔宏福苑五級火｜何永賢：逾2500人入住過渡房屋及房協單位 重申居民毋須擔心租金開支](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251209/s00001/1765283074338)
 - [大埔宏福苑五級火｜24名留院傷者情况均轉為穩定](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251209/s00001/1765281514640)
 - [萬科據報表示願意支付部分利息 以推進債券展期談判](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251209/s00002/1765280462805)
 
 ### 20251210
+
 - [大埔宏福苑五級火｜男子涉冒災民騙最少1.8萬元資助 戶主稱應急錢未落袋 警拘一男](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251210/s00001/1765353067508)
 - [宏福苑五級火丨神秘男欲低價掃貨 江玉歡籲勿被有心人利用 倡政府為支援措施劃線](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251210/s00002/1765354747348)
 - [大埔宏福苑五級火｜援助基金累積約34億元 宏福苑每戶業主將獲發10萬元補助](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251210/s00001/1765353323272)
@@ -1265,8 +1273,8 @@
 - [被圍封的民主牆 / 曾信繁](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251210/s00018/1765299869167)
 - [火燒連環船（上） / 韓麗珠](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251210/s00018/1765299869907)
 
-
 ### 20251210
+
 - [大埔宏福苑五級火｜高院首席法官率專組支援災民展法律程序 法援加快審批](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251210/s00001/1765381955963)
 - [Yumi挑戰AI聲演 靠幻想代入角色 跟黎展峯安俊豪爆三角戀](https://news.mingpao.com/ins/%e5%a8%9b%e6%a8%82/article/20251210/s00007/1765367889351)
 - [字節跳動阿里巴巴據報擬大量訂購Nvidia H200晶片](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251210/s00002/1765367769987)
@@ -1277,7 +1285,7 @@
 - [匯豐：七成受訪家長考慮因應子女教育移居香港](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251210/s00002/1765363569037)
 - [美國初創Tiiny AI發布全球最小個人AI超級電腦Tiiny AI Pocket Lab](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251210/s00002/1765363149210)
 - [寶龍地產︰清盤申請已通過雙方協定同意令方式撤銷](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251210/s00002/1765362309294)
-- [澳博旗下最大衛星場置地將於年底結束營運  ](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251210/s00002/1765360628494)
+- [澳博旗下最大衛星場置地將於年底結束營運](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251210/s00002/1765360628494)
 - [丘鈦科技11月手機攝像頭模組銷量按月跌14% 稱因季節性影響](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251210/s00002/1765359368979)
 - [濱崎步效應？ 金在中澳門聖誕騷取消](https://news.mingpao.com/ins/%e5%a8%9b%e6%a8%82/article/20251210/s00007/1765358948520)
 - [大新：料失業率明年底降至3.3% 惟改善速度較慢](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251210/s00002/1765358228357)
@@ -1299,6 +1307,7 @@
 - [反差 / 披靈](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251210/s00018/1765299868966)
 
 ### 20251211
+
 - [甯漢豪指建造業界共識非「一刀切」轉用金屬棚 並非指竹棚屬大埔火災起因](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251211/s00001/1765446898802)
 - [甯漢豪：絕對不同意香港建造業差勁 莫因「害群之馬」一竹篙打一船人](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251211/s00001/1765446894867)
 - [大埔宏福苑小型無人機禁飛令延至本月28日](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251211/s00001/1765445831362)
@@ -1321,8 +1330,8 @@
 - [Editorial：Rebuilding Wang Fuk Court Needs Sense and Sympathy](https://news.mingpao.com/pns/%e8%8b%b1%e6%96%87/article/20251211/s00017/1765383547826)
 - [火燒連環船（中） / 韓麗珠](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251211/s00018/1765383550271)
 
-
 ### 20251211
+
 - [亞冠盃2︱大埔一球小勝河內公安升第3謝幕 李志堅：勝仗獻宏福苑居民 東方作客0：9敗走南定](https://news.mingpao.com/ins/%e9%ab%94%e8%82%b2/article/20251211/s00006/1765459047736)
 - [大埔宏福苑五級火｜災民入住酒店14天安排   酒店業願彈性延長居住期限](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251211/s00001/1765460953732)
 - [《我們的青春日誌》回歸舞台 首兩晚義演支援宏福苑災民](https://news.mingpao.com/ins/%e5%a8%9b%e6%a8%82/article/20251211/s00007/1765457823922)
@@ -1330,15 +1339,15 @@
 - [港交所任命房觀明為首席風險總監](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251211/s00002/1765445583272)
 - [鄭志剛旗下上合發展進軍中東及北非   伙迪拜地產巨擘成立「瓦菲動漫 11」](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251211/s00002/1765444863273)
 - [紫元元伙卓悅大灣區研建立「社區智能售賣免稅店」](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251211/s00002/1765444743375)
-- [瑧爾明首輪賣63伙 收逾2500票超額39倍 ](https://news.mingpao.com/ins/%e5%9c%b0%e7%94%a2/article/20251211/s00003/1765444082380)
-- [創科實業︰於2025年底前自願終止HART業務  ](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251211/s00002/1765443783141)
+- [瑧爾明首輪賣63伙 收逾2500票超額39倍](https://news.mingpao.com/ins/%e5%9c%b0%e7%94%a2/article/20251211/s00003/1765444082380)
+- [創科實業︰於2025年底前自願終止HART業務](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251211/s00002/1765443783141)
 - [據報喜茶全國減少逾600家分店  消息指今年初叫停加盟  退出「內捲」](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251211/s00002/1765443484767)
 - [貿發局料明年香港出口增長8至9% AI產品需求持續支撐](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251211/s00002/1765443303678)
-- [陳耀豪獲委任為新世界發展執董兼新世界中國CEO  ](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251211/s00002/1765443123810)
+- [陳耀豪獲委任為新世界發展執董兼新世界中國CEO](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251211/s00002/1765443123810)
 - [證監會譴責瑞士盈豐銀行並罰款1085萬元  涉產品審查與延遲匯報等缺失](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251211/s00002/1765442763451)
 - [網傳拼多多高層與市監總局人員互毆](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251211/s00002/1765440063824)
 - [Bowtie灣仔設新總部  承租七層樓面  商廈明年2月易名「保泰人壽大廈」](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251211/s00002/1765438682729)
-- [八達通App用戶於麥當勞App訂餐  消費滿50元或以上即賺10元獎賞 ](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251211/s00002/1765437965787)
+- [八達通App用戶於麥當勞App訂餐  消費滿50元或以上即賺10元獎賞](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251211/s00002/1765437965787)
 - [安本：聯儲局加息憂慮暫除 市場短期將現反彈](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251211/s00002/1765437063496)
 - [匯豐、渣打、中銀及恒生維持最優惠利率不變](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251211/s00002/1765426262971)
 - [半日沽空金額減21% 盈富減33%](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251211/s00002/1765427703085)
@@ -1361,6 +1370,7 @@
 - [細小的袋 / 馮曉彤](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251211/s00018/1765383549622)
 
 ### 20251212
+
 - [【羅仕揚專欄】搭棚界內搭雞棚](https://news.mingpao.com/ins/%e7%b6%93%e6%bf%9f/article/20251212/s00002/1765540279520)
 - [大埔宏福苑五級火｜林正財：至今已接觸130名遺屬 支援層面另涵災民及受影響市民](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251212/s00001/1765538712768)
 - [大埔宏福苑五級火｜獨立委員會主席陸啟康稱會盡力工作 拒答行使調查權細節](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251212/s00001/1765532798033)
@@ -1381,8 +1391,8 @@
 - [中醫院啟用 首月資助全科門診滿額 名額加開 宏福災民醫費豁免至明年底](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251212/s00002/1765475828172)
 - [火燒連環船（下） / 韓麗珠](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251212/s00018/1765468933149)
 
-
 ### 20251212
+
 - [193樂見緋聞效應 盼與Candy合作吸廣告 現實拒當第三者](https://news.mingpao.com/ins/%e5%a8%9b%e6%a8%82/article/20251212/s00007/1765540149896)
 - [瑧爾最後待售12伙全獲選購  全盤63伙清袋](https://news.mingpao.com/ins/%e5%9c%b0%e7%94%a2/article/20251212/s00003/1765531988690)
 - [瑧爾全盤63伙售逾8成 大手客5800萬購9伙](https://news.mingpao.com/ins/%e5%9c%b0%e7%94%a2/article/20251212/s00003/1765522629738)
@@ -1400,6 +1410,7 @@
 - [世間情 / 湯家驊](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251212/s00018/1765468932549)
 
 ### 20251213
+
 - [大埔宏福苑五級火︱房協已安排400戶共1200人入住過渡屋出租屋邨專用屋邨單位](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251213/s00001/1765627024193)
 - [大埔宏福苑五級火︱卓永興：會考慮直接賠償租戶 暫不考慮停止開放捐款](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251213/s00001/1765597716977)
 - [大埔宏福苑五級火︱黃偉綸：收回宏福苑業權或需動用公帑 若原址重建或需清拆](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251213/s00001/1765596015037)
